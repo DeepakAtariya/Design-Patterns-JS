@@ -1,5 +1,3 @@
-###We are going to develop a calculator using facade design pattern:
-
 #Facade Design Pattern
 - Facade design pattern is a structural design pattern. It is used to hide complexity of subsystem and provide simple and easy to use interface to clients.
 - There are various use case of facade design pattern such as follows:
