@@ -3,6 +3,7 @@ const Toy = require("./Toy");
 class Ironman extends Toy {
     assembled = false
     exported = false
+    static testVar = true
     assembling () {
         console.log('Constructing Ironman toy')
         this.assembled = true
