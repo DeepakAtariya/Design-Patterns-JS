@@ -1,0 +1,30 @@
+{
+  "name": "design-patterns-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepakAtariya/Design-Patterns-JS.git"
+  },
+  "keywords": [
+    "design",
+    "pattern",
+    "low",
+    "level",
+    "design"
+  ],
+  "author": "deepak atariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepakAtariya/Design-Patterns-JS/issues"
+  },
+  "homepage": "https://github.com/DeepakAtariya/Design-Patterns-JS#readme",
+  "devDependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^5.9.3"
+  }
+}

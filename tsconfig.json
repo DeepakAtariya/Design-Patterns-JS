@@ -1,0 +1,11 @@
+    // Example tsconfig.json snippet
+    {
+      "compilerOptions": {
+        "moduleResolution": "node", // or "bundler"
+        "baseUrl": ".",
+        "paths": {
+          "@/*": ["src/*"] // Example path mapping
+        },
+        "forceConsistentCasingInFileNames": true
+      }
+    }
